@@ -1,2 +1,3 @@
 name: Chris Kang, Designer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
