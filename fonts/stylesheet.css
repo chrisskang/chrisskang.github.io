@@ -1,0 +1,179 @@
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The font file(s) should be placed relative to the regular CSS file.
+ *
+ */
+
+/*
+ * Legal Disclaimer for Trial Licence licence
+ *
+ * Trial Licence
+ *
+ * Trial Web License for evaluation, testing and presentation purposes on internal domains without public access only.
+ * 
+ * The font files may not be distributed, published or used on any other domain(s).
+ * 
+ * Any further use is strictly prohibited.
+ *
+ * For internal test and presentation use only.
+ * For both print use and web / electronic use on internal domains without public access. Licencee may create documents / visuals / web pages etc. for the purpose of evaluation and presentation to clients or other interested parties.
+ * Any further use is strictly prohibited. The font files may not be distributed, published or used on any other domain(s).
+ *
+ */
+
+/* complete */
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-Light";
+  src: url("PrismaTextLLWebTrial-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-LightItalic";
+  src: url("PrismaTextLowLLWebTrial-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-LightItalic";
+  src: url("PrismaTextLowLLWebTrial-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-MediumItalic";
+  src: url("PrismaTextLowLLWebTrial-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Bold";
+  src: url("PrismaTextLowLLWebTrial-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-LightItalic";
+  src: url("PrismaTextLLWebTrial-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-BoldItalic";
+  src: url("PrismaTextLowLLWebTrial-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-Regular";
+  src: url("PrismaTextLLWebTrial-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Regular";
+  src: url("PrismaTextLowLLWebTrial-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-BoldItalic";
+  src: url("PrismaTextLowLLWebTrial-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Italic";
+  src: url("PrismaTextLowLLWebTrial-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Medium";
+  src: url("PrismaTextLowLLWebTrial-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Regular";
+  src: url("PrismaTextLowLLWebTrial-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Italic";
+  src: url("PrismaTextLowLLWebTrial-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Light";
+  src: url("PrismaTextLowLLWebTrial-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-Medium";
+  src: url("PrismaTextLLWebTrial-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Bold";
+  src: url("PrismaTextLowLLWebTrial-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Light";
+  src: url("PrismaTextLowLLWebTrial-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-ExtraBold";
+  src: url("PrismaTextLowLLWebTrial-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-Medium";
+  src: url("PrismaTextLowLLWebTrial-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-Italic";
+  src: url("PrismaTextLLWebTrial-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-ExtraBoldItalic";
+  src: url("PrismaTextLowLLWebTrial-ExtraBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-MediumItalic";
+  src: url("PrismaTextLowLLWebTrial-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-ExtraBoldItalic";
+  src: url("PrismaTextLLWebTrial-ExtraBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-BoldItalic";
+  src: url("PrismaTextLLWebTrial-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-MediumItalic";
+  src: url("PrismaTextLLWebTrial-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-ExtraBold";
+  src: url("PrismaTextLLWebTrial-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLLWebTrial-Bold";
+  src: url("PrismaTextLLWebTrial-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-ExtraBold";
+  src: url("PrismaTextLowLLWebTrial-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PrismaTextLowLLWebTrial-ExtraBoldItalic";
+  src: url("PrismaTextLowLLWebTrial-ExtraBoldItalic.woff") format("woff");
+}
+
+
